@@ -1,0 +1,7 @@
+C:\Projects\ProjectLibrary\Customer\bin\Debug\Customer.exe.config
+C:\Projects\ProjectLibrary\Customer\bin\Debug\Customer.exe
+C:\Projects\ProjectLibrary\Customer\bin\Debug\Customer.pdb
+C:\Projects\ProjectLibrary\Customer\obj\Debug\Customer.csproj.AssemblyReference.cache
+C:\Projects\ProjectLibrary\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+C:\Projects\ProjectLibrary\Customer\obj\Debug\Customer.exe
+C:\Projects\ProjectLibrary\Customer\obj\Debug\Customer.pdb
